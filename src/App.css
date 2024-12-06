@@ -36,7 +36,10 @@
     transform: rotate(360deg);
   }
 }
-
+h1{
+  background-color: black;
+  color:#61dafb;
+}
 
 button {
   background-color: blue;
